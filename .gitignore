@@ -1,0 +1,5 @@
+/.idea
+
+connection_string.txt
+examples/
+rds-combined-ca-bundle.pem
